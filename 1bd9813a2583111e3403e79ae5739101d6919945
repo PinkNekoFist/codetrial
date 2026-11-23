@@ -1,0 +1,25 @@
+{
+  "base": "9ff3798fbbd0fa86bf6fa33b5ab51f3b2231cff6",
+  "head": "1bd9813a2583111e3403e79ae5739101d6919945",
+  "pr_text_lines": 461,
+  "large_commits": [
+    {
+      "sha": "1bd9813a2583111e3403e79ae5739101d6919945",
+      "text_lines": 461
+    }
+  ],
+  "coverage_complete": false,
+  "unmeasured_commits": [
+    {
+      "sha": "1bd9813a2583111e3403e79ae5739101d6919945",
+      "paths": [
+        "tests/fixtures/task-mode/package.enc"
+      ]
+    }
+  ],
+  "required": true,
+  "status": "pending",
+  "schema_version": 1,
+  "change_id": "I97fa45afba0676e691578f100c20d79e4a2d0fb7",
+  "workbench_started": false
+}
