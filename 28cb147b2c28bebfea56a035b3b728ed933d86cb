@@ -18,7 +18,10 @@
     }
   ],
   "required": true,
-  "status": "pending",
+  "status": "complete",
+  "diff_hash": "d650dd0ef3fab2da12fe64ea62e6ebb6d7e55db26d526ee98811fb24d284074b",
+  "answer_digest": "5c47acaba3e97b2a0eb033c85c7fd5295a731a310fb040120acf1a8ac4fe876f",
+  "review_fingerprint": "2d9d4a976879d95aa7fd7c26f4dfb8af81987f60e650477ae5b9242bae5b882e",
   "schema_version": 1,
   "change_id": "Ifaec8a4bf627733eed4d8de8432cbcc4ad54175b",
   "workbench_started": true
